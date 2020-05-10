@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# Yarn
+yarn.lock
+
+# Dependency directories
+node_modules/
