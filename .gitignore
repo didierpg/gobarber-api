@@ -1,9 +1,8 @@
-# Logs
-logs
-*.log
-
-# Yarn
-yarn.lock
-
-# Dependency directories
+.idea/
+.vscode/
 node_modules/
+build/
+temp/
+yarn.lock
+tmp/*
+!tmp/.gitkeep
